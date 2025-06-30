@@ -42,3 +42,7 @@ Generate metrics like accuracy, precision, recall, and F1-score
 Plot confusion matrix using seaborn.heatmap
 
 # OUTPUT
+
+![Image](https://github.com/user-attachments/assets/b3907feb-9a67-44c7-8433-bdca9553370e)
+
+![Image](https://github.com/user-attachments/assets/081a9070-5d8e-4390-b9f7-a2a4d0dde442)
